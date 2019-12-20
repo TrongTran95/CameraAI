@@ -15,7 +15,7 @@
 | **Datasets**     | Không có|
 | **Level of difficulty**|Sử dụng nhanh và dễ dàng, giao diện trực quan.|
 
-##### Một số hình ảnh train với YOLO
+##### Một số hình ảnh train với CameraAI
 ![](https://i.imgur.com/koDwGBQ.png)
 
 ![](https://i.imgur.com/JMP0GEH.png)
@@ -31,3 +31,8 @@
 | **Results**    | Dự đoán nhãn của khuôn mặt vừa chụp được thông qua những khuôn mặt đã được gán nhãn trước đó|
 | **Discussion** | |
 | **Future**     | Mở rộng data, lấy data bằng cách import hình thông qua nhiều phương thức (hiện tại chỉ thông qua camera chụp). Real time predict. Đánh dấu vùng khuôn mặt trực tiếp trên camera.|
+
+##### Hướng dẫn sử dụng
+**Bước 1:** Download project về
+**Bước 2:** Chạy pod install để cài thư viện tensor flow
+**Bước 3:** Build và run project
